@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   
@@ -113,6 +114,7 @@
     font-size: 2.3rem;
     line-height: 1.2;
     display: inline;
+    
   }
   
   .page-wrapper {
@@ -136,7 +138,7 @@
     text-align: right;
     padding-right: 15px;
     border-right: 4px solid var(--primary);
-    font-size: 4vw;
+    font-size: 3vw;
     line-height: 1.1;
   }
   
@@ -237,7 +239,7 @@
   }
   
   .surf-report {
-    background-image: url("../images/02-portfolio-4.jpg");
+    background-image: url("../Horiseon-web.png");
   }
   
   /* end portfolio project images */
