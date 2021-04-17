@@ -174,7 +174,6 @@
     font-size: 0.9rem;
   }
   
-  /* feature first portfolio item */
   .flex-item:first-child {
       min-height: 400px;
       flex-basis: 100%;
@@ -220,29 +219,27 @@
     background-size: 100% 88%;
     color: var(--secondary);
   }
-  
-  /* portfolio project images */
+
   .run-buddy {
     background-image: url("../images/02-run-buddy.jpg");
   }
   
   .led-wall {
-    background-image: url("../images/02-portfolio-1.jpg");
+    background-image: url("");
   }
   
   .react-calc {
-    background-image: url("../images/02-portfolio-2.jpg");
+    background-image: url("");
   }
   
   .pastel-puzzles {
-    background-image: url("../images/02-portfolio-3.jpg");
+    background-image: url("");
   }
   
   .surf-report {
     background-image: url("../Horiseon-web.png");
   }
   
-  /* end portfolio project images */
   
   @media screen and (max-width: 980px) {
     header {
