@@ -160,9 +160,9 @@
     border: 5px solid var(--secondary);
     background-color: var(--primary);
     color: var(--tertiary);
-    min-height: 150px;
-    max-height: 150px;
-    flex-basis: calc(50% - 1em);
+    min-height: 400px;
+    max-height: 175px;
+    flex-basis: 100%;
     display: flex;
     align-items: flex-end;
     padding: 0 0 20px 0;
@@ -172,11 +172,6 @@
     background-size: 150%;
     transition: all 0.5s;
     font-size: 0.9rem;
-  }
-  
-  .flex-item:first-child {
-      min-height: 400px;
-      flex-basis: 100%;
   }
   
   .flex-item:hover {
@@ -219,23 +214,11 @@
     background-size: 100% 88%;
     color: var(--secondary);
   }
-
-  .run-buddy {
-    background-image: url("./images/02-run-buddy.jpg");
-  }
   
   .led-wall {
     background-image: url("./images/meme.png");
   }
-  
-  .react-calc {
-    background-image: url("");
-  }
-  
-  .pastel-puzzles {
-    background-image: url("");
-  }
-  
+
   .surf-report {
     background-image: url("./images/Horiseon-web.png");
   }
