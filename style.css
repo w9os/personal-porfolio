@@ -89,7 +89,7 @@
   
   .hero-banner {
     background: rgb(68, 88, 120);
-    background-image: url("../02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+    background-image: url("./images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -221,7 +221,7 @@
   }
 
   .run-buddy {
-    background-image: url("../images/02-run-buddy.jpg");
+    background-image: url("./images/02-run-buddy.jpg");
   }
   
   .led-wall {
@@ -237,7 +237,7 @@
   }
   
   .surf-report {
-    background-image: url("../Horiseon-web.png");
+    background-image: url("./images/Horiseon-web.png");
   }
   
   
